@@ -32,7 +32,7 @@ nav{
                 text-align: center;
                 transition: all 0.2s ease-in-out;
                 &:hover{
-                    color: #fddb3a;
+                    color: #f1d235;
                 }
             }
             &:nth-child(1):hover ~ .dot{
@@ -59,7 +59,7 @@ nav{
         .dot{
             width: 6px;
             height: 6px;
-            background: #fddb3a;
+            background: #f1d235;
             border-radius: 50%;
             opacity: 0;
             transform: translate(30px);
