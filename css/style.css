@@ -37,7 +37,7 @@ nav .links li a {
   transition: all 0.2s ease-in-out;
 }
 nav .links li a:hover {
-  color: #fddb3a;
+  color: #f1d235;
 }
 nav .links li:nth-child(1):hover ~ .dot {
   transform: translateX(37px);
@@ -62,7 +62,7 @@ nav .links li:nth-child(4):hover ~ .dot {
 nav .links .dot {
   width: 6px;
   height: 6px;
-  background: #fddb3a;
+  background: #f1d235;
   border-radius: 50%;
   opacity: 0;
   transform: translate(30px);
